@@ -6,10 +6,13 @@ ________________________________________________________________________________
 - 💻 Estou procurando estágio
 #
 - 📚FORMAÇÃO EM ANDAMENTO
+
 Ciência da Computação - Universidade Pulista - UNIP
 #
 - ⭐ PRINCIPAIS TECNOLOGIAS
-HTML5|JavaScript|Java|MySQL|PHYTON
+
+HTML5 | JavaScript | Java | MySQL | PHYTON
+
 Entusiasta por soluções eficientes, escaláveis e seguras.
 #
 - 📧 Contate-me no e-mail: polyanartg@gmail.com
