@@ -1,9 +1,20 @@
-### Olá! Eu sou a Polyana Ortega 😊
+### Olá! Seja Bem Vindo (a) ao meu Github 😊
+___________________________________________________________________________________________________________
+Meu nome é Polyana Ortega, tenho 19 anos e moro em São Paulo-SP
+___________________________________________________________________________________________________________
+### About me 
 - 💻 Estou procurando estágio
-- 📚 Estudando Ciência da Computação
+#
+- 📚FORMAÇÃO EM ANDAMENTO
+Ciência da Computação - Universidade Pulista - UNIP
+#
+- ⭐ PRINCIPAIS TECNOLOGIAS
+HTML5|JavaScript|Java|MySQL|PHYTON
+Entusiasta por soluções eficientes, escaláveis e seguras.
+#
 - 📧 Contate-me no e-mail: polyanartg@gmail.com
 
-
+____________________________________________________________________________________________________________
 ![Polyana GitHub stats](https://github-readme-stats.vercel.app/api?username=polyana&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
